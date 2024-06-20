@@ -19,8 +19,8 @@ class EventOverview extends ChartWidget
         'scales' => [
             'y' => [
                 'beginAtZero' => true,
-                'ticks'=>[
-                    'stepSize'=>1
+                'ticks' => [
+                    'stepSize' => 1
                 ]
             ],
         ],
